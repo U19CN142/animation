@@ -18,7 +18,7 @@ background: #000;
 .loader span
 {
 	position: relative;
-	font-size: 2em;
+	font-size: 5em;
 	color: #fff;
 	display: inline-block;
 	text-transform: uppercase;
